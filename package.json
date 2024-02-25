@@ -1,0 +1,28 @@
+{
+  "name": "mytestteaproject",
+  "version": "1.0.2",
+  "description": "thecoldblooded test project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/thecoldblooded/mytestteaproject.git"
+   },
+    "keywords": [
+    "test",
+    "project",
+    "matsh"
+  ],
+  "dependencies": {
+    "express":"latest",
+    "ejs":"latest"
+  },
+  "author": "thecoldblooded",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thecoldblooded/mytestteaproject/issues"
+  },
+  "homepage": "https://github.com/thecoldblooded/mytestteaproject#readme"
+}
